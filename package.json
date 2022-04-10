@@ -1,0 +1,23 @@
+{
+  "name": "readmehw.ad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adawson87/ReadmeHw.ad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adawson87/ReadmeHw.ad/issues"
+  },
+  "homepage": "https://github.com/adawson87/ReadmeHw.ad#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
